@@ -16,7 +16,7 @@
 
 ### WORKING<hr>
 <b>Step 1: Collection of Required Data</b>
-- We have utilized our newly constructed dataset ‘Olympics Legacy: 1896-2020’.
+- Utilized our newly constructed dataset ‘Olympics Legacy: 1896-2020’.
 - It includes comprehensive data spanning 124 years of Olympics.
 - It’s primary file has 12 features and 2,86,238 records.
 
@@ -47,12 +47,23 @@ Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legac
   - Calculating two different medal tallies with respect to accuracy
 
 
-### RESULTS & VISUALIZATIONS<hr>
+<h3 align="left">RESULTS AND VISUALIZATIONS</h3><hr>
+<h4 align="left">Table Chart - Medal Tally for TOP 10 Countries</h4>
+<img align="center" src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/Charts_visualizations/matrix.png'><br>
+
+<h4 align="left">Ribbon Chart - Performance of Athletes on basis of Age</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/Charts_visualizations/ribbon_chart.png' align='center'><br>
+
+<h4 align="left">Complete Power BI Dashboard - Overview</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
+
 
 ### CONCLUSIONS/OUTCOMES<hr>
-- Comprehensive Dataset Formation: Through meticulous exploration of 3-4 datasets, we have curated a comprehensive repository of Olympic data spanning various aspects, including athlete performances and other logistical details.
+- **Comprehensive Dataset Formation**: Through meticulous exploration of 3-4 datasets, curated a comprehensive repository of Olympic data spanning various aspects, including athlete performances and other logistical details.
 
-- Insightful Dashboard Creation with Power BI: Utilizing Power BI, we transformed our analytical findings into interactive and visually appealing dashboards, offering stakeholders a user-friendly platform to explore and understand the intricacies of Olympic performance trends.
+- **Insightful Dashboard Creation with Power BI**: Utilizing Power BI, transformed our analytical findings into interactive and visually appealing dashboards, offering stakeholders a user-friendly platform to explore and understand the intricacies of Olympic performance trends.
+  
+- **Strategic Python Analysis**: Conducted strategic Python analysis, including one hot encoding on medal columns and data deduplication, resulting in a 75% improvement in accuracy of country medal tallies.
 
 
 ### FUTURE PLAN<hr>
