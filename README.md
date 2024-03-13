@@ -1,7 +1,7 @@
 <h1 align="center">Olympics Data Dive: Unveiling Performance Trends</h1>
 
 ### INTRODUCTION
-
+<hr>
 - The Olympics are a premier international sports event uniting athletes globally, with a rich history dating back to ancient Greece. 
 - Data analytics plays a crucial role in understanding and enhancing athletes' performance, training methods, and overall outcomes.
 - This project employs Power BI for analyzing Olympic data, providing interactive visualization and advanced statistical modeling.
