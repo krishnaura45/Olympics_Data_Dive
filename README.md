@@ -16,7 +16,14 @@
 
 ### PROPOSED METHODOLOGY<hr>
 Step 1: Collection of Required Data
+- We have utilized our newly constructed dataset ‘Olympics Legacy: 1896-2020’.
+- It includes comprehensive data spanning 124 years of Olympics.
+- It’s primary file has 12 features and 2,86,238 records.
+
 Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legacy-1896-2020" target="_blank">Olympics Legacy</a>
+
+<img src='![image](https://github.com/krishnaura45/Olympics_Data_Dive/assets/118080140/85558497-37e8-4145-9bac-1abeaf6b703b)
+'></img>
 
 Step 2: Dashboard Creation using Power BI
 
