@@ -14,17 +14,17 @@
 - Utilize Python for statistical analysis and modeling.![image]
 
 
-### PROPOSED METHODOLOGY<hr>
-Step 1: Collection of Required Data
+### WORKING<hr>
+<b>Step 1: Collection of Required Data</b>
 - We have utilized our newly constructed dataset ‘Olympics Legacy: 1896-2020’.
 - It includes comprehensive data spanning 124 years of Olympics.
 - It’s primary file has 12 features and 2,86,238 records.
 
 Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legacy-1896-2020" target="_blank">Olympics Legacy</a>
 
-<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/dataset.png'></img>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/dataset.png' alt='Main csv file'> all_athete_games.csv</img>
 
-Step 2: Dashboard Creation using Power BI
+<b>Step 2: Dashboard Creation using Power BI</b>
 - Transform Data: Into a final dataframe by
   - Removing columns
   - Defining relationships / Merging
@@ -36,11 +36,15 @@ Step 2: Dashboard Creation using Power BI
   - Pie chart: Gender-wise participation
   - Cards for specific stats
 
-Step 3: Python Analysis
-- Data Preprocessing: Cleaned and prepared the dataset by handling missing values and converting data types.
-- Exploratory Data Analysis (EDA): Explored dataset distribution and relationships, visualizing key statistics with matplotlib or seaborn.
-- Statistical Analysis: Applied statistical methods to analyze factors influencing athlete performance and relationships within the data.
-- Insights and Recommendations: Derived actionable insights to guide decision-making for athletes, coaches, and organizations, offering recommendations based on findings.
+<b>Step 3: Python Analysis</b>
+- Performed some strategic analysis in python such as:
+  - Merging files on the basis of specific features
+  - Extracting summer olympics data
+  - Calculating number and names of countries participated
+  - Handling missing and duplicate values
+  - One Hot Encoding of Medals
+  - Grouping encoded data along with original on the basis of specific features
+  - Calculating two different medal tallies with respect to accuracy
 
 
 ### RESULTS & VISUALIZATIONS<hr>
