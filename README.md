@@ -22,21 +22,50 @@ Step 1: Collection of Required Data
 
 Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legacy-1896-2020" target="_blank">Olympics Legacy</a>
 
-<img src='![image](https://github.com/krishnaura45/Olympics_Data_Dive/assets/118080140/85558497-37e8-4145-9bac-1abeaf6b703b)
-'></img>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/dataset.png'></img>
 
 Step 2: Dashboard Creation using Power BI
+- Transform Data: Into a final dataframe by
+  - Removing columns
+  - Defining relationships / Merging
+  - Other measures
+   
+- Analyzing Olympics data using various charts such as-
+  - Table chart: Medal Tally
+  - Ribbon chart: Age-wise Performance
+  - Pie chart: Gender-wise participation
+  - Cards for specific stats
 
 Step 3: Python Analysis
+- Data Preprocessing: Cleaned and prepared the dataset by handling missing values and converting data types.
+- Exploratory Data Analysis (EDA): Explored dataset distribution and relationships, visualizing key statistics with matplotlib or seaborn.
+- Statistical Analysis: Applied statistical methods to analyze factors influencing athlete performance and relationships within the data.
+- Insights and Recommendations: Derived actionable insights to guide decision-making for athletes, coaches, and organizations, offering recommendations based on findings.
 
 
 ### RESULTS & VISUALIZATIONS<hr>
 
 ### CONCLUSIONS/OUTCOMES<hr>
+- Comprehensive Dataset Formation: Through meticulous exploration of 3-4 datasets, we have curated a comprehensive repository of Olympic data spanning various aspects, including athlete performances and other logistical details.
+
+- Insightful Dashboard Creation with Power BI: Utilizing Power BI, we transformed our analytical findings into interactive and visually appealing dashboards, offering stakeholders a user-friendly platform to explore and understand the intricacies of Olympic performance trends.
+
+
+### FUTURE PLAN<hr>
+- Analyze data using Python in detail
+- Create a user-friendly interface, like a web app.
 
 ### FUTURE SCOPE<hr>
+- Analyze data through Tableau.
+- Enabling dynamic and up-to-date analysis.
+- Enhance predictive modeling capabilities to forecast athlete performances.
+
 
 ### REFERENCES<hr>
+1) Pradhan, Rahul, Kartik Agrawal, and Anubhav Nag. "Analyzing Evolution of the Olympics by Exploratory Data Analysis using R." IOP Conference Series: Materials Science and Engineering. Vol. 1099. No. 1. IOP Publishing, 2021.
+2) Asha, V., Sreeja, S. P., Saju, B., Nisarga, C. S., & Prasad, A. (2023, March). Performance Analysis of Olympic Games using Data Analytics. In 2023 Second International Conference on Electronics and Renewable Systems (ICEARS) (pp. 1436-1443). IEEE.
+3) Abeza G, Braunstein-Minkove J R, S´eguin B, O’Reilly N, Kim A and Abdourazakou Y 2020 Ambushmarketing via social media: The case of the three most recent Olympic Games Int. J. Sport Communication1–25. 
+
 
 ### TECH STACKS INVOLVED<hr>
 - Python
