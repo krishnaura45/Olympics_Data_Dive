@@ -11,7 +11,7 @@
 - Explore historical performance trends.
 - Study data analytics using tools such as Power BI  
 - Develop interactive dashboards for intuitive exploration.
-- Utilize Python for statistical analysis and modeling.![image]
+- Utilize Python for statistical analysis and modeling.
 
 
 ### WORKING<hr>
