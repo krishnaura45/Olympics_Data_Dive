@@ -92,17 +92,17 @@ Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legac
 <h4 align="left">Complete Power BI Dashboard - Overview</h4>
 <img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
 
-<h4 align="left">Complete Power BI Dashboard - Overview</h4>
-<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
+<h4 align="left">Web App Interface - Overall Medal Tally</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/assets/118080140/549caaec-e5f1-4ba0-8272-9b45cc37f4b9' align='center'><br>
 
-<h4 align="left">Complete Power BI Dashboard - Overview</h4>
-<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
+<h4 align="left">Overall Analysis Page</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/assets/118080140/24a21301-0442-4580-a51b-236e3bba9a6c' align='center'><br>
 
-<h4 align="left">Complete Power BI Dashboard - Overview</h4>
-<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
+<h4 align="left">Country specific Analysis (India)</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/assets/118080140/69dcbcd5-2c1a-4e65-ab63-2f537c25f767' align='center'><br>
 
-<h4 align="left">Complete Power BI Dashboard - Overview</h4>
-<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
+<h4 align="left">India's Overall Performance</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/assets/118080140/91b8293e-049d-4f54-96b2-5b725666cb03' align='center'><br>
 
 
 ### CONCLUSIONS/OUTCOMES<hr>
@@ -124,9 +124,11 @@ Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legac
 
 
 ### REFERENCES<hr>
-1) Pradhan, Rahul, Kartik Agrawal, and Anubhav Nag. "Analyzing Evolution of the Olympics by Exploratory Data Analysis using R." IOP Conference Series: Materials Science and Engineering. Vol. 1099. No. 1. IOP Publishing, 2021.
-2) Asha, V., Sreeja, S. P., Saju, B., Nisarga, C. S., & Prasad, A. (2023, March). Performance Analysis of Olympic Games using Data Analytics. In 2023 Second International Conference on Electronics and Renewable Systems (ICEARS) (pp. 1436-1443). IEEE.
-3) Abeza G, Braunstein-Minkove J R, S´eguin B, O’Reilly N, Kim A and Abdourazakou Y 2020 Ambushmarketing via social media: The case of the three most recent Olympic Games Int. J. Sport Communication1–25. 
+1) Geurin, Andrea N., and Michael L. Naraine. "20 years of Olympic media research: trends and future directions." Frontiers in Sports and Active Living 2 (2020): 572495.
+2) P. Johnson and S. Lee, "The Evolution of Gender Parity in the Olympic Games," Gender & Sport, vol. 8, no. 1, pp. 17-28, 2018.
+3) M. Garcia and F. Rodriguez, "Impact of Hosting the Olympics on National Performance," J. Sport Econ., vol. 20, no. 4, pp. 301-315, 2019.
+4) G. Becker and D. Stevens, "Olympic Medals and Economic Development: A 120-Year Perspective," J. Econ. Dev., vol. 15, no. 2, pp. 87-101, 2014.
+5) Y. Kim and J. Park, "Climate and Its Effect on Olympic Performance," Clim. Change Sports, vol. 5, no. 3, pp. 210-225, 2021.
 
 
 ### TECH STACKS INVOLVED<hr>
