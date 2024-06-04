@@ -7,11 +7,16 @@
 - The project aims to analyze athlete and country performance across Olympic events, identifying trends and correlations to inform sports management and training strategies.
 
 
+### LITERATURE REVIEW<hr>
+![image](https://github.com/krishnaura45/Olympics_Data_Dive/assets/118080140/127d42c4-429f-4a3c-9472-2b18752033b8)
+
+
 ### OBJECTIVES<hr>
 - Explore historical performance trends.
 - Study data analytics using tools such as Power BI  
 - Develop interactive dashboards for intuitive exploration.
 - Utilize Python for statistical analysis and modeling.
+- Build interactive app
 
 
 ### WORKING<hr>
@@ -24,7 +29,7 @@ Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legac
 
 <img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/dataset.png' alt='Main csv file'> all_athete_games.csv</img>
 
-<b>Step 2: Dashboard Creation using Power BI</b>
+<b>Step 2: Data Analysis and Dashboard Creation using Power BI</b>
 - Transform Data: Into a final dataframe by
   - Removing columns
   - Defining relationships / Merging
@@ -37,7 +42,7 @@ Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legac
   - Cards for specific stats
 
 <b>Step 3: Python Analysis</b>
-- Performed some strategic analysis in python such as:
+- Performed operations such as:
   - Merging files on the basis of specific features
   - Extracting summer olympics data
   - Calculating number and names of countries participated
@@ -45,14 +50,56 @@ Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legac
   - One Hot Encoding of Medals
   - Grouping encoded data along with original on the basis of specific features
   - Calculating two different medal tallies with respect to accuracy
+ 
+- Performed four types of analysis:
+  - *Medal Tally Analysis*
+    1) ***Overall Tally***: Displays the total medal count for all countries across all years.
+    2) ***Year-wise Tally***: Shows the medal count for all countries for a particular year.
+    3) ***Year-over-Year Tally***: Presents the medal count for all countries over multiple years.
+    4) ***Country-specific Tally***: Provides the medal count for a particular year and country.
+
+  - *Athlete-wise Analysis*
+    1) ***Distribution of Age vs. Medals***: Examines the distribution of athlete ages concerning the number of medals won.
+    2) ***Distribution of Age vs. Sports (Gold Medalist)***: Analyzes the age distribution of gold medalists across different sports.
+    3) ***Men vs. Women Participation Over Years***: Visualizes the participation trends of men and women athletes over various editions of the Olympics.
+
+  - *Country-wise Analysis*
+    1) ***Medal Tally Over Years***: Visualizes the medal tally for a specific country across different editions of the Olympics.
+    2) ***Sports Excellence***: Identifies the sports in which a particular country excels based on medal counts.
+    3) ***Top 10 Athletes***: Highlights the top 10 athletes from a specific country based on their performance in the Olympics.
+
+  - *Overall Analysis*
+    1) ***Top Statistics***: Evaluates key metrics such as the number of editions, hosting countries, sports, events, nations participated, and athletes.
+    2) ***Participating Nations Over Years***: Visualizes the trend of participating nations over different editions of the Olympics.
+    3) ***Events Over Years***: Illustrates the evolution of Olympic events over time using line plots.
+    4) ***Athletes Over Years***: Depicts the growth in the number of athletes participating in the Olympics across editions.
+    5) ***Number of Events Over Time*** and ***Most Successful Athletes***
+
+<b>Step 4: Web App Development</b>
+- Developed web app using ***Streamlit***, simplifying interactive data exploration with minimal code.
+- Scripted Python functions for preprocessing, analysis, and visualization, ***enhancing modularity***.
+- Created helper modules (helper.py and preprocessor.py) for ***streamlined data manipulation*** and ***maintenance***.
+- Utilized Streamlit's intuitive interface for ***user-friendly data visualization*** and dashboard creation.
+
+<b>Step 5: Deployment</b>
+- Prepare the locally developed web app for deployment on a cloud platform, prioritizing ***Heroku*** for its ***user-friendly interface*** and ***Python support***.
+- Create necessary files including ***requirements.txt*** and ***Procfile*** to ensure Heroku can install dependencies and execute the application seamlessly.
+- Push the application code and required files to a Git repository for version control and collaboration.
+- Deploy the application on Heroku using either the ***CLI*** or web dashboard, initiating automatic build and deployment processes to generate a unique ***URL for access***.
 
 
 <h3 align="left">RESULTS AND VISUALIZATIONS</h3><hr>
-<h4 align="left">Table Chart - Medal Tally for TOP 10 Countries</h4>
-<img align="center" src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/Charts_visualizations/matrix.png'><br>
+<h4 align="left">Complete Power BI Dashboard - Overview</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
 
-<h4 align="left">Ribbon Chart - Performance of Athletes on basis of Age</h4>
-<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/Charts_visualizations/ribbon_chart.png' align='center'><br>
+<h4 align="left">Complete Power BI Dashboard - Overview</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
+
+<h4 align="left">Complete Power BI Dashboard - Overview</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
+
+<h4 align="left">Complete Power BI Dashboard - Overview</h4>
+<img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
 
 <h4 align="left">Complete Power BI Dashboard - Overview</h4>
 <img src='https://github.com/krishnaura45/Olympics_Data_Dive/blob/main/power_bi_dashboard.jpeg' align='center'><br>
