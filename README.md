@@ -108,14 +108,12 @@ Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legac
 ### CONCLUSIONS/OUTCOMES<hr>
 - **Comprehensive Dataset Formation**: Through meticulous exploration of 3-4 datasets, curated a comprehensive repository of Olympic data spanning various aspects, including athlete performances and other logistical details.
 
-- **Insightful Dashboard Creation with Power BI**: Utilizing Power BI, transformed our analytical findings into interactive and visually appealing dashboards, offering stakeholders a user-friendly platform to explore and understand the intricacies of Olympic performance trends.
+- **Insightful Dashboard Creation with Power BI**: Utilizing Power BI, transformed our analytical findings into interactive and visually appealing dashboard, offering stakeholders a user-friendly platform to explore and understand the intricacies of Olympic performance trends.
   
-- **Strategic Python Analysis**: Conducted strategic Python analysis, including one hot encoding on medal columns and data deduplication, resulting in a 75% improvement in accuracy of country medal tallies.
+- **Enriched understanding via Python analysis**, delving into medal tallies, overall trends, country-specific performances, and athlete characteristics.
+- Extension of analysis reach through **development and deployment** of a **user-friendly web app using Streamlit and Heroku**, facilitating real-time exploration of Olympic datasets.
+- **Strategic implications** can be identified for countries, enabling optimization of training programs, resource allocation, and strategic partnerships to enhance competitiveness on the global Olympic stage.
 
-
-### FUTURE PLAN<hr>
-- Analyze data using Python in detail
-- Create a user-friendly interface, like a web app.
 
 ### FUTURE SCOPE<hr>
 - Analyze data through Tableau.
